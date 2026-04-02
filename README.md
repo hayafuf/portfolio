@@ -57,8 +57,7 @@ https://youtu.be/5f6MvzREQP0
 
 ```
 フォルダー(Folder)
-CSSC2024
-CSSC2023
+Computer_Summer_Camp
 ```
 ## 技術
 使用言語(Programming Language)JavaScript, HTML

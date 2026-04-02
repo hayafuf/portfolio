@@ -204,6 +204,7 @@ function game_init() {
         enemy_norma = 15;
         remain_time = 50;
     }
+    //===============================================================================
     background = new createjs.Shape();
     background.graphics.beginFill("rgba(0, 0, 0, 0.5)").drawRect(0, 0, 180, 120);
     background.x = 5;
